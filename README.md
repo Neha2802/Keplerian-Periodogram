@@ -3,4 +3,4 @@ Implementation of Generalized Lomb-Scargle Periodogram with Keplerian Signal Mod
 
 
 ### Reference
-M. Zechmeister & M. Kürster, The generalised Lomb-Scargle periodogram. A new formalism for the floating-mean and Keplerian periodograms, 2009, A&A, 496, 577 [pdf] (https://arxiv.org/pdf/0901.2573)
+M. Zechmeister & M. Kürster, The generalised Lomb-Scargle periodogram. A new formalism for the floating-mean and Keplerian periodograms, 2009, A&A, 496, 577 [pdf](https://arxiv.org/pdf/0901.2573)
